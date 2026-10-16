@@ -1,0 +1,27 @@
+# .NET / IDE output
+**/bin/
+**/obj/
+**/dist/
+.vs/
+.idea/
+*.user
+*.suo
+
+# Release assets belong in GitHub Releases
+*.exe
+*.dll
+*.pdb
+*.zip
+
+# Local credentials, builds and cached data
+.env
+.env.*
+*.pem
+*.key
+settings.dat
+autosave.json
+catalog.json
+*.pcbuild.json
+**/mock-cache/
+work/
+outputs/

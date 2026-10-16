@@ -1,0 +1,56 @@
+装机工坊个人版 — 内置硬件数据库来源说明
+
+Data from BuildCores OpenDB (https://github.com/buildcores/buildcores-open-db),
+licensed under CC BY-NC-SA 4.0.
+Source release: main at 05ca1e31bfede3bd8d77ad3746b92d539a211328
+Snapshot downloaded: 2026-10-16 (Asia/Shanghai).
+License: https://creativecommons.org/licenses/by-nc-sa/4.0/
+Full license text: LICENSE-OpenDB.txt (distributed alongside this file).
+
+本程序的 seed.json / presets.json 是上述社区数据库的格式转换与摘选：
+1. 摘选 CPU、Motherboard、GPU、RAM、Storage、CPUCooler、PSU、PCCase 八类。
+2. 将源字段映射到本程序的 Part/BuildPlan 格式，统一插槽空格与板型名称。
+3. 保留型号、品牌及可用硬件事实；保留每条记录的来源链接。
+4. 缺失数据不填造；CPU 功耗优先源 PPT，缺失时使用 TDP 并标注依据。
+5. 不收录源数据库的图片、品牌标志、海外零售商商品清单或其他受独立权利限制的媒体。
+6. 所有价格均为空。没有将搜索链接视为在售商品、库存证明或已核验报价。
+7. 四套配置模板仅为选型起点；预算数值为可编辑目标，不是实时报价或成交价。
+
+Changes: eight-category extraction; field mapping to Part/BuildPlan;
+socket/form-factor normalization; removal of retailer/media data;
+four illustrative build presets; no imported price or stock claims.
+
+快照覆盖：处理器 789、主板 3701、显卡 3865、内存 4876、存储 3499、
+散热器 2420、电源 3300、机箱 3804，合计 26254 条社区记录。
+其中包括历史、区域与多版本型号，不表示全部型号仍在京东或淘宝在售。
+记录数量包含源库的不同 SKU 与部分近似型号，未声称为 26254 款独立产品。
+
+本数据库及其改编数据按 CC BY-NC-SA 4.0 提供。该许可允许个人非商业使用，
+公开分享适用该许可的数据改编时须遵守署名、非商业和相同方式共享条款。
+应用程序自身代码不因上述数据库许可而必须公开；此处不对第三方内容另行授权。
+社区规格可能存在缺失或错误，购买前请复核厂商规格、主板 CPU 支持列表、
+BIOS 版本、商家商品详情与最终结算页。
+
+--- Upstream NOTICE.md, preserved verbatim ---
+
+# OpenDB Licensing Notice
+
+All data in BuildCores OpenDB is made available under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://github.com/buildcores/buildcores-open-db/blob/main/LICENSE.txt). This includes existing records, updates, and future additions. This notice adds no conditions to the standard license.
+
+## Coverage
+
+The license covers the complete OpenDB dataset to the extent that BuildCores and contributing rights holders have authority to license the applicable copyright and database rights.
+
+This notice does not create ownership of ordinary product facts or restrict uses allowed by law. Software, logos, photographs, manuals, and other third-party content retain their separate rights and licensing terms.
+
+## Attribution and forks
+
+When publicly sharing licensed data, credit its source, retain required notices, identify changes, and include the license text or link, as required by section 3(a). Suggested credit:
+
+> Data from BuildCores OpenDB (https://github.com/buildcores/buildcores-open-db), licensed under CC BY-NC-SA 4.0. Source release: [identifier]. Changes: [description].
+
+When publicly sharing adaptations that require copyright or database permission, follow the ShareAlike terms in section 3(b) and the database-rights provisions in section 4. Private changes and your app's own code do not have to be published.
+
+## Commercial use
+
+Commercial use requiring permission under this license needs a separate written grant from the appropriate rights holders. See the [licensing guide](https://github.com/buildcores/buildcores-open-db/blob/main/docs/licensing/README.md) for commercial requests and contributor permissions. BuildCores can approve only rights it owns or has permission to license.

@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType><TargetFramework>net8.0-windows</TargetFramework><UseWPF>true</UseWPF><Nullable>enable</Nullable><ImplicitUsings>enable</ImplicitUsings><AssemblyName>装机工坊</AssemblyName><RootNamespace>PcWorkbench</RootNamespace><Version>1.0.0</Version><ApplicationManifest>app.manifest</ApplicationManifest><ApplicationIcon>app.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup><Compile Remove="tests\**\*.cs"/><EmbeddedResource Include="Data\*.json"/><EmbeddedResource Include="Data\*.txt"/><Content Include="Data\*.txt"><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory><ExcludeFromSingleFile>true</ExcludeFromSingleFile></Content></ItemGroup>
+</Project>

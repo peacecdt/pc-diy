@@ -1,0 +1,649 @@
+[
+  {
+    "Name": "入门办公 · 核显 / 16GB",
+    "Usage": "办公 / 学习",
+    "Budget": 3000,
+    "Parts": {
+      "cooler": {
+        "Id": "opendb-010abcce-a3d8-488c-a89d-9713092820c1",
+        "Category": "cooler",
+        "Name": "Deepcool AK400 Air 155mm Black / Silver",
+        "Brand": "DeepCool",
+        "Price": null,
+        "PriceKind": "未报价 / 未核验国内在售",
+        "Source": "BuildCores OpenDB (CC BY-NC-SA 4.0)",
+        "SourceUrl": "https://github.com/buildcores/buildcores-open-db/blob/main/open-db/CPUCooler/010abcce-a3d8-488c-a89d-9713092820c1.json",
+        "UpdatedAt": "2026-10-16T12:01:10.3758114+08:00",
+        "Specs": {
+          "sockets": "AM4,AM5,LGA1150,LGA1151,LGA1155,LGA1156,LGA1200,LGA1700,LGA1851",
+          "heightMm": "155",
+          "radiatorMm": "0"
+        },
+        "Offers": []
+      },
+      "storage": {
+        "Id": "opendb-eebdf290-b1af-4432-ab43-e66b6afbe752",
+        "Category": "storage",
+        "Name": "Western Digital Black SN770 1TB SSD M.2-2280 PCIe 4.0 X4 NVMe",
+        "Brand": "Western Digital",
+        "Price": null,
+        "PriceKind": "未报价 / 未核验国内在售",
+        "Source": "BuildCores OpenDB (CC BY-NC-SA 4.0)",
+        "SourceUrl": "https://github.com/buildcores/buildcores-open-db/blob/main/open-db/Storage/eebdf290-b1af-4432-ab43-e66b6afbe752.json",
+        "UpdatedAt": "2026-10-16T12:01:10.3758114+08:00",
+        "Specs": {
+          "storageGb": "1000",
+          "interface": "M.2 PCIe 4.0 x4",
+          "formFactor": "M.2-2280",
+          "storageType": "SSD"
+        },
+        "Offers": []
+      },
+      "case": {
+        "Id": "opendb-687a65ed-557d-4774-99e6-8ef308c9a1ba",
+        "Category": "case",
+        "Name": "Lian Li LANCOOL 216 EATX Mid Tower Black Tempered Glass Side Panel",
+        "Brand": "Lian Li",
+        "Price": null,
+        "PriceKind": "未报价 / 未核验国内在售",
+        "Source": "BuildCores OpenDB (CC BY-NC-SA 4.0)",
+        "SourceUrl": "https://github.com/buildcores/buildcores-open-db/blob/main/open-db/PCCase/687a65ed-557d-4774-99e6-8ef308c9a1ba.json",
+        "UpdatedAt": "2026-10-16T12:01:10.3758114+08:00",
+        "Specs": {
+          "supportedForms": "E-ATX,ATX,mATX,ITX",
+          "maxGpuMm": "392",
+          "maxCoolerMm": "180.5",
+          "supportedPsuForms": "ATX",
+          "sourceVerifiedAt": "2025-09-24T04:37:42.132Z"
+        },
+        "Offers": []
+      },
+      "cpu": {
+        "Id": "opendb-7564da71-725e-4a56-9d79-d80377b7a92f",
+        "Category": "cpu",
+        "Name": "AMD Ryzen 5 5600G",
+        "Brand": "AMD",
+        "Price": null,
+        "PriceKind": "未报价 / 未核验国内在售",
+        "Source": "BuildCores OpenDB (CC BY-NC-SA 4.0)",
+        "SourceUrl": "https://github.com/buildcores/buildcores-open-db/blob/main/open-db/CPU/7564da71-725e-4a56-9d79-d80377b7a92f.json",
+        "UpdatedAt": "2026-10-16T12:01:10.3758114+08:00",
+        "Specs": {
+          "socket": "AM4",
+          "powerWatts": "88",
+          "powerBasis": "PPT",
+          "memoryType": "DDR4",
+          "maxMemoryGb": "128",
+          "graphicsModel": "AMD Radeon Vega 7",
+          "igpu": "true",
+          "cores": "6",
+          "threads": "12",
+          "boostGhz": "4.4"
+        },
+        "Offers": []
+      },
+      "motherboard": {
+        "Id": "opendb-95b1e5e5-1aeb-48dd-8eb7-9efc4ad00512",
+        "Category": "motherboard",
+        "Name": "MSI PRO B550M PRO-VDH WIFI AM4 DDR4 Micro-ATX",
+        "Brand": "MSI",
+        "Price": null,
+        "PriceKind": "未报价 / 未核验国内在售",
+        "Source": "BuildCores OpenDB (CC BY-NC-SA 4.0)",
+        "SourceUrl": "https://github.com/buildcores/buildcores-open-db/blob/main/open-db/Motherboard/95b1e5e5-1aeb-48dd-8eb7-9efc4ad00512.json",
+        "UpdatedAt": "2026-10-16T12:01:10.3758114+08:00",
+        "Specs": {
+          "socket": "AM4",
+          "formFactor": "mATX",
+          "memoryType": "DDR4",
+          "ramSlots": "4",
+          "maxMemoryGb": "128",
+          "m2Slots": "2",
+          "sataPorts": "4",
+          "chipset": "AMD B550",
+          "sourceVerifiedAt": "2026-03-03T23:29:20.683Z"
+        },
+        "Offers": []
+      },
+      "memory": {
+        "Id": "opendb-1693ade8-baa6-4635-86ec-ef3af308cbe4",
+        "Category": "memory",
+        "Name": "Kingston FURY Beast 16GB (2x8GB) DDR4 3200 CL16 Black",
+        "Brand": "Kingston",
+        "Price": null,
+        "PriceKind": "未报价 / 未核验国内在售",
+        "Source": "BuildCores OpenDB (CC BY-NC-SA 4.0)",
+        "SourceUrl": "https://github.com/buildcores/buildcores-open-db/blob/main/open-db/RAM/1693ade8-baa6-4635-86ec-ef3af308cbe4.json",
+        "UpdatedAt": "2026-10-16T12:01:10.3758114+08:00",
+        "Specs": {
+          "memoryGb": "16",
+          "memorySpeed": "3200",
+          "modules": "2",
+          "memoryType": "DDR4",
+          "formFactor": "288-pin DIMM",
+          "casLatency": "16",
+          "sourceVerifiedAt": "2026-04-12T14:11:44.029Z"
+        },
+        "Offers": []
+      },
+      "psu": {
+        "Id": "opendb-8d671d1e-29d1-408a-8b81-8c5f7125f2a7",
+        "Category": "psu",
+        "Name": "Corsair CX550M (2021) 550W Semi-Modular 80+ Bronze Certified",
+        "Brand": "Corsair",
+        "Price": null,
+        "PriceKind": "未报价 / 未核验国内在售",
+        "Source": "BuildCores OpenDB (CC BY-NC-SA 4.0)",
+        "SourceUrl": "https://github.com/buildcores/buildcores-open-db/blob/main/open-db/PSU/8d671d1e-29d1-408a-8b81-8c5f7125f2a7.json",
+        "UpdatedAt": "2026-10-16T12:01:10.3758114+08:00",
+        "Specs": {
+          "powerWatts": "550",
+          "formFactor": "ATX",
+          "efficiency": "80+ Bronze",
+          "lengthMm": "140"
+        },
+        "Offers": []
+      }
+    },
+    "SavedAt": "2026-10-16T12:00:00+08:00"
+  },
+  {
+    "Name": "1080p 游戏 · i5 + RTX 4060",
+    "Usage": "1080p 游戏",
+    "Budget": 5500,
+    "Parts": {
+      "cooler": {
+        "Id": "opendb-010abcce-a3d8-488c-a89d-9713092820c1",
+        "Category": "cooler",
+        "Name": "Deepcool AK400 Air 155mm Black / Silver",
+        "Brand": "DeepCool",
+        "Price": null,
+        "PriceKind": "未报价 / 未核验国内在售",
+        "Source": "BuildCores OpenDB (CC BY-NC-SA 4.0)",
+        "SourceUrl": "https://github.com/buildcores/buildcores-open-db/blob/main/open-db/CPUCooler/010abcce-a3d8-488c-a89d-9713092820c1.json",
+        "UpdatedAt": "2026-10-16T12:01:10.3758114+08:00",
+        "Specs": {
+          "sockets": "AM4,AM5,LGA1150,LGA1151,LGA1155,LGA1156,LGA1200,LGA1700,LGA1851",
+          "heightMm": "155",
+          "radiatorMm": "0"
+        },
+        "Offers": []
+      },
+      "storage": {
+        "Id": "opendb-eebdf290-b1af-4432-ab43-e66b6afbe752",
+        "Category": "storage",
+        "Name": "Western Digital Black SN770 1TB SSD M.2-2280 PCIe 4.0 X4 NVMe",
+        "Brand": "Western Digital",
+        "Price": null,
+        "PriceKind": "未报价 / 未核验国内在售",
+        "Source": "BuildCores OpenDB (CC BY-NC-SA 4.0)",
+        "SourceUrl": "https://github.com/buildcores/buildcores-open-db/blob/main/open-db/Storage/eebdf290-b1af-4432-ab43-e66b6afbe752.json",
+        "UpdatedAt": "2026-10-16T12:01:10.3758114+08:00",
+        "Specs": {
+          "storageGb": "1000",
+          "interface": "M.2 PCIe 4.0 x4",
+          "formFactor": "M.2-2280",
+          "storageType": "SSD"
+        },
+        "Offers": []
+      },
+      "case": {
+        "Id": "opendb-687a65ed-557d-4774-99e6-8ef308c9a1ba",
+        "Category": "case",
+        "Name": "Lian Li LANCOOL 216 EATX Mid Tower Black Tempered Glass Side Panel",
+        "Brand": "Lian Li",
+        "Price": null,
+        "PriceKind": "未报价 / 未核验国内在售",
+        "Source": "BuildCores OpenDB (CC BY-NC-SA 4.0)",
+        "SourceUrl": "https://github.com/buildcores/buildcores-open-db/blob/main/open-db/PCCase/687a65ed-557d-4774-99e6-8ef308c9a1ba.json",
+        "UpdatedAt": "2026-10-16T12:01:10.3758114+08:00",
+        "Specs": {
+          "supportedForms": "E-ATX,ATX,mATX,ITX",
+          "maxGpuMm": "392",
+          "maxCoolerMm": "180.5",
+          "supportedPsuForms": "ATX",
+          "sourceVerifiedAt": "2025-09-24T04:37:42.132Z"
+        },
+        "Offers": []
+      },
+      "cpu": {
+        "Id": "opendb-19fbd8f2-a226-4b83-9e5d-683db638d337",
+        "Category": "cpu",
+        "Name": "Intel Core i5 12400F",
+        "Brand": "Intel",
+        "Price": null,
+        "PriceKind": "未报价 / 未核验国内在售",
+        "Source": "BuildCores OpenDB (CC BY-NC-SA 4.0)",
+        "SourceUrl": "https://github.com/buildcores/buildcores-open-db/blob/main/open-db/CPU/19fbd8f2-a226-4b83-9e5d-683db638d337.json",
+        "UpdatedAt": "2026-10-16T12:01:10.3758114+08:00",
+        "Specs": {
+          "socket": "LGA1700",
+          "powerWatts": "117",
+          "powerBasis": "PPT",
+          "memoryType": "DDR5,DDR4",
+          "maxMemoryGb": "128",
+          "graphicsModel": "None",
+          "igpu": "false",
+          "cores": "6",
+          "threads": "12",
+          "boostGhz": "4.4"
+        },
+        "Offers": []
+      },
+      "motherboard": {
+        "Id": "opendb-000deb7d-a2c6-4134-9d33-ffc0508cb277",
+        "Category": "motherboard",
+        "Name": "ASUS B760M-AYW WIFI D4 LGA1700 DDR4 Micro-ATX",
+        "Brand": "ASUS",
+        "Price": null,
+        "PriceKind": "未报价 / 未核验国内在售",
+        "Source": "BuildCores OpenDB (CC BY-NC-SA 4.0)",
+        "SourceUrl": "https://github.com/buildcores/buildcores-open-db/blob/main/open-db/Motherboard/000deb7d-a2c6-4134-9d33-ffc0508cb277.json",
+        "UpdatedAt": "2026-10-16T12:01:10.3758114+08:00",
+        "Specs": {
+          "socket": "LGA1700",
+          "formFactor": "mATX",
+          "memoryType": "DDR4",
+          "ramSlots": "2",
+          "maxMemoryGb": "64",
+          "m2Slots": "2",
+          "sataPorts": "4",
+          "chipset": "Intel B760"
+        },
+        "Offers": []
+      },
+      "memory": {
+        "Id": "opendb-1693ade8-baa6-4635-86ec-ef3af308cbe4",
+        "Category": "memory",
+        "Name": "Kingston FURY Beast 16GB (2x8GB) DDR4 3200 CL16 Black",
+        "Brand": "Kingston",
+        "Price": null,
+        "PriceKind": "未报价 / 未核验国内在售",
+        "Source": "BuildCores OpenDB (CC BY-NC-SA 4.0)",
+        "SourceUrl": "https://github.com/buildcores/buildcores-open-db/blob/main/open-db/RAM/1693ade8-baa6-4635-86ec-ef3af308cbe4.json",
+        "UpdatedAt": "2026-10-16T12:01:10.3758114+08:00",
+        "Specs": {
+          "memoryGb": "16",
+          "memorySpeed": "3200",
+          "modules": "2",
+          "memoryType": "DDR4",
+          "formFactor": "288-pin DIMM",
+          "casLatency": "16",
+          "sourceVerifiedAt": "2026-04-12T14:11:44.029Z"
+        },
+        "Offers": []
+      },
+      "gpu": {
+        "Id": "opendb-1309b5ed-47b5-4664-8061-9757526eb825",
+        "Category": "gpu",
+        "Name": "ZOTAC GAMING GeForce RTX 4060 8GB Twin Edge OC",
+        "Brand": "Zotac",
+        "Price": null,
+        "PriceKind": "未报价 / 未核验国内在售",
+        "Source": "BuildCores OpenDB (CC BY-NC-SA 4.0)",
+        "SourceUrl": "https://github.com/buildcores/buildcores-open-db/blob/main/open-db/GPU/1309b5ed-47b5-4664-8061-9757526eb825.json",
+        "UpdatedAt": "2026-10-16T12:01:10.3758114+08:00",
+        "Specs": {
+          "powerWatts": "115",
+          "lengthMm": "221.4",
+          "vramGb": "8",
+          "chipset": "GeForce RTX 4060",
+          "interface": "PCIe 4.0 x8",
+          "sourceVerifiedAt": "2025-10-16T13:21:56.440Z"
+        },
+        "Offers": []
+      },
+      "psu": {
+        "Id": "opendb-8d671d1e-29d1-408a-8b81-8c5f7125f2a7",
+        "Category": "psu",
+        "Name": "Corsair CX550M (2021) 550W Semi-Modular 80+ Bronze Certified",
+        "Brand": "Corsair",
+        "Price": null,
+        "PriceKind": "未报价 / 未核验国内在售",
+        "Source": "BuildCores OpenDB (CC BY-NC-SA 4.0)",
+        "SourceUrl": "https://github.com/buildcores/buildcores-open-db/blob/main/open-db/PSU/8d671d1e-29d1-408a-8b81-8c5f7125f2a7.json",
+        "UpdatedAt": "2026-10-16T12:01:10.3758114+08:00",
+        "Specs": {
+          "powerWatts": "550",
+          "formFactor": "ATX",
+          "efficiency": "80+ Bronze",
+          "lengthMm": "140"
+        },
+        "Offers": []
+      }
+    },
+    "SavedAt": "2026-10-16T12:00:00+08:00"
+  },
+  {
+    "Name": "2K 游戏 · 9700X + RTX 5060 Ti 16GB",
+    "Usage": "2K 游戏",
+    "Budget": 8500,
+    "Parts": {
+      "cooler": {
+        "Id": "opendb-1166c9b3-a8a0-47c3-bc4f-a3bef54e0c3d",
+        "Category": "cooler",
+        "Name": "Thermalright Peerless Assassin 120 Air 157mm Black",
+        "Brand": "Thermalright",
+        "Price": null,
+        "PriceKind": "未报价 / 未核验国内在售",
+        "Source": "BuildCores OpenDB (CC BY-NC-SA 4.0)",
+        "SourceUrl": "https://github.com/buildcores/buildcores-open-db/blob/main/open-db/CPUCooler/1166c9b3-a8a0-47c3-bc4f-a3bef54e0c3d.json",
+        "UpdatedAt": "2026-10-16T12:01:10.3758114+08:00",
+        "Specs": {
+          "sockets": "AM4,AM5,LGA1150,LGA1151,LGA1155,LGA1156,LGA1200,LGA1700,LGA1851,LGA2011,LGA2066,LGA2011-3",
+          "heightMm": "157",
+          "radiatorMm": "0"
+        },
+        "Offers": []
+      },
+      "storage": {
+        "Id": "opendb-eebdf290-b1af-4432-ab43-e66b6afbe752",
+        "Category": "storage",
+        "Name": "Western Digital Black SN770 1TB SSD M.2-2280 PCIe 4.0 X4 NVMe",
+        "Brand": "Western Digital",
+        "Price": null,
+        "PriceKind": "未报价 / 未核验国内在售",
+        "Source": "BuildCores OpenDB (CC BY-NC-SA 4.0)",
+        "SourceUrl": "https://github.com/buildcores/buildcores-open-db/blob/main/open-db/Storage/eebdf290-b1af-4432-ab43-e66b6afbe752.json",
+        "UpdatedAt": "2026-10-16T12:01:10.3758114+08:00",
+        "Specs": {
+          "storageGb": "1000",
+          "interface": "M.2 PCIe 4.0 x4",
+          "formFactor": "M.2-2280",
+          "storageType": "SSD"
+        },
+        "Offers": []
+      },
+      "case": {
+        "Id": "opendb-687a65ed-557d-4774-99e6-8ef308c9a1ba",
+        "Category": "case",
+        "Name": "Lian Li LANCOOL 216 EATX Mid Tower Black Tempered Glass Side Panel",
+        "Brand": "Lian Li",
+        "Price": null,
+        "PriceKind": "未报价 / 未核验国内在售",
+        "Source": "BuildCores OpenDB (CC BY-NC-SA 4.0)",
+        "SourceUrl": "https://github.com/buildcores/buildcores-open-db/blob/main/open-db/PCCase/687a65ed-557d-4774-99e6-8ef308c9a1ba.json",
+        "UpdatedAt": "2026-10-16T12:01:10.3758114+08:00",
+        "Specs": {
+          "supportedForms": "E-ATX,ATX,mATX,ITX",
+          "maxGpuMm": "392",
+          "maxCoolerMm": "180.5",
+          "supportedPsuForms": "ATX",
+          "sourceVerifiedAt": "2025-09-24T04:37:42.132Z"
+        },
+        "Offers": []
+      },
+      "cpu": {
+        "Id": "opendb-09086e21-4979-41ba-a451-3f8bb1c9cc55",
+        "Category": "cpu",
+        "Name": "AMD Ryzen 7 9700X",
+        "Brand": "AMD",
+        "Price": null,
+        "PriceKind": "未报价 / 未核验国内在售",
+        "Source": "BuildCores OpenDB (CC BY-NC-SA 4.0)",
+        "SourceUrl": "https://github.com/buildcores/buildcores-open-db/blob/main/open-db/CPU/09086e21-4979-41ba-a451-3f8bb1c9cc55.json",
+        "UpdatedAt": "2026-10-16T12:01:10.3758114+08:00",
+        "Specs": {
+          "socket": "AM5",
+          "powerWatts": "88",
+          "powerBasis": "PPT",
+          "memoryType": "DDR5",
+          "maxMemoryGb": "256",
+          "graphicsModel": "AMD Radeon Graphics",
+          "igpu": "true",
+          "cores": "8",
+          "threads": "16",
+          "boostGhz": "5.5"
+        },
+        "Offers": []
+      },
+      "motherboard": {
+        "Id": "opendb-211f259d-b61c-4add-949c-2345f17717a0",
+        "Category": "motherboard",
+        "Name": "ASUS TUF GAMING B850M-PLUS WIFI",
+        "Brand": "ASUS",
+        "Price": null,
+        "PriceKind": "未报价 / 未核验国内在售",
+        "Source": "BuildCores OpenDB (CC BY-NC-SA 4.0)",
+        "SourceUrl": "https://github.com/buildcores/buildcores-open-db/blob/main/open-db/Motherboard/211f259d-b61c-4add-949c-2345f17717a0.json",
+        "UpdatedAt": "2026-10-16T12:01:10.3758114+08:00",
+        "Specs": {
+          "socket": "AM5",
+          "formFactor": "mATX",
+          "memoryType": "DDR5",
+          "ramSlots": "4",
+          "maxMemoryGb": "256",
+          "m2Slots": "3",
+          "sataPorts": "4",
+          "chipset": "AMD B850",
+          "sourceVerifiedAt": "2026-01-05T19:05:37.852Z"
+        },
+        "Offers": []
+      },
+      "memory": {
+        "Id": "opendb-044f0d87-2fbc-49c4-ba90-b34c8bb1b9c7",
+        "Category": "memory",
+        "Name": "Kingston FURY Beast RGB Black DDR5-6000 CL30 32GB (2x16GB)",
+        "Brand": "Kingston",
+        "Price": null,
+        "PriceKind": "未报价 / 未核验国内在售",
+        "Source": "BuildCores OpenDB (CC BY-NC-SA 4.0)",
+        "SourceUrl": "https://github.com/buildcores/buildcores-open-db/blob/main/open-db/RAM/044f0d87-2fbc-49c4-ba90-b34c8bb1b9c7.json",
+        "UpdatedAt": "2026-10-16T12:01:10.3758114+08:00",
+        "Specs": {
+          "memoryGb": "32",
+          "memorySpeed": "6000",
+          "modules": "2",
+          "memoryType": "DDR5",
+          "formFactor": "288-pin DIMM",
+          "casLatency": "30"
+        },
+        "Offers": []
+      },
+      "gpu": {
+        "Id": "opendb-120ed92d-1221-48e9-89a2-4372a5e2dd55",
+        "Category": "gpu",
+        "Name": "ASUS Dual GeForce RTX 5060 Ti EVO OC Edition 16GB GDDR7",
+        "Brand": "ASUS",
+        "Price": null,
+        "PriceKind": "未报价 / 未核验国内在售",
+        "Source": "BuildCores OpenDB (CC BY-NC-SA 4.0)",
+        "SourceUrl": "https://github.com/buildcores/buildcores-open-db/blob/main/open-db/GPU/120ed92d-1221-48e9-89a2-4372a5e2dd55.json",
+        "UpdatedAt": "2026-10-16T12:01:10.3758114+08:00",
+        "Specs": {
+          "powerWatts": "180",
+          "lengthMm": "225",
+          "vramGb": "16",
+          "chipset": "GeForce RTX 5060 Ti 16 GB",
+          "interface": "PCIe 5.0 x8",
+          "sourceVerifiedAt": "2025-12-18T22:17:22.408Z"
+        },
+        "Offers": []
+      },
+      "psu": {
+        "Id": "opendb-982a442a-8e0a-490f-ad13-ddce35b752a4",
+        "Category": "psu",
+        "Name": "Corsair RM750e (2023) 750W 80+ Gold Fully Modular",
+        "Brand": "Corsair",
+        "Price": null,
+        "PriceKind": "未报价 / 未核验国内在售",
+        "Source": "BuildCores OpenDB (CC BY-NC-SA 4.0)",
+        "SourceUrl": "https://github.com/buildcores/buildcores-open-db/blob/main/open-db/PSU/982a442a-8e0a-490f-ad13-ddce35b752a4.json",
+        "UpdatedAt": "2026-10-16T12:01:10.3758114+08:00",
+        "Specs": {
+          "powerWatts": "750",
+          "formFactor": "ATX",
+          "efficiency": "80+ Gold",
+          "lengthMm": "140"
+        },
+        "Offers": []
+      }
+    },
+    "SavedAt": "2026-10-16T12:00:00+08:00"
+  },
+  {
+    "Name": "创作工作 · 12 核心 / 64GB / 2TB",
+    "Usage": "创作 / 渲染",
+    "Budget": 11000,
+    "Parts": {
+      "cooler": {
+        "Id": "opendb-1166c9b3-a8a0-47c3-bc4f-a3bef54e0c3d",
+        "Category": "cooler",
+        "Name": "Thermalright Peerless Assassin 120 Air 157mm Black",
+        "Brand": "Thermalright",
+        "Price": null,
+        "PriceKind": "未报价 / 未核验国内在售",
+        "Source": "BuildCores OpenDB (CC BY-NC-SA 4.0)",
+        "SourceUrl": "https://github.com/buildcores/buildcores-open-db/blob/main/open-db/CPUCooler/1166c9b3-a8a0-47c3-bc4f-a3bef54e0c3d.json",
+        "UpdatedAt": "2026-10-16T12:01:10.3758114+08:00",
+        "Specs": {
+          "sockets": "AM4,AM5,LGA1150,LGA1151,LGA1155,LGA1156,LGA1200,LGA1700,LGA1851,LGA2011,LGA2066,LGA2011-3",
+          "heightMm": "157",
+          "radiatorMm": "0"
+        },
+        "Offers": []
+      },
+      "storage": {
+        "Id": "opendb-87e049f2-3a06-4b29-aa77-d6d4a07096fb",
+        "Category": "storage",
+        "Name": "Western Digital Black SN850X 2TB SSD M.2 PCIe 4.0 NVMe",
+        "Brand": "Western Digital",
+        "Price": null,
+        "PriceKind": "未报价 / 未核验国内在售",
+        "Source": "BuildCores OpenDB (CC BY-NC-SA 4.0)",
+        "SourceUrl": "https://github.com/buildcores/buildcores-open-db/blob/main/open-db/Storage/87e049f2-3a06-4b29-aa77-d6d4a07096fb.json",
+        "UpdatedAt": "2026-10-16T12:01:10.3758114+08:00",
+        "Specs": {
+          "storageGb": "2000",
+          "interface": "M.2 PCIe 4.0 x4",
+          "formFactor": "M.2-2280",
+          "storageType": "SSD"
+        },
+        "Offers": []
+      },
+      "case": {
+        "Id": "opendb-687a65ed-557d-4774-99e6-8ef308c9a1ba",
+        "Category": "case",
+        "Name": "Lian Li LANCOOL 216 EATX Mid Tower Black Tempered Glass Side Panel",
+        "Brand": "Lian Li",
+        "Price": null,
+        "PriceKind": "未报价 / 未核验国内在售",
+        "Source": "BuildCores OpenDB (CC BY-NC-SA 4.0)",
+        "SourceUrl": "https://github.com/buildcores/buildcores-open-db/blob/main/open-db/PCCase/687a65ed-557d-4774-99e6-8ef308c9a1ba.json",
+        "UpdatedAt": "2026-10-16T12:01:10.3758114+08:00",
+        "Specs": {
+          "supportedForms": "E-ATX,ATX,mATX,ITX",
+          "maxGpuMm": "392",
+          "maxCoolerMm": "180.5",
+          "supportedPsuForms": "ATX",
+          "sourceVerifiedAt": "2025-09-24T04:37:42.132Z"
+        },
+        "Offers": []
+      },
+      "cpu": {
+        "Id": "opendb-2ab00ac9-d91e-4250-9297-2bdd6f617d41",
+        "Category": "cpu",
+        "Name": "AMD Ryzen 9 7900",
+        "Brand": "AMD",
+        "Price": null,
+        "PriceKind": "未报价 / 未核验国内在售",
+        "Source": "BuildCores OpenDB (CC BY-NC-SA 4.0)",
+        "SourceUrl": "https://github.com/buildcores/buildcores-open-db/blob/main/open-db/CPU/2ab00ac9-d91e-4250-9297-2bdd6f617d41.json",
+        "UpdatedAt": "2026-10-16T12:01:10.3758114+08:00",
+        "Specs": {
+          "socket": "AM5",
+          "powerWatts": "88",
+          "powerBasis": "PPT",
+          "memoryType": "DDR5",
+          "maxMemoryGb": "128",
+          "graphicsModel": "AMD Radeon Graphics",
+          "igpu": "true",
+          "cores": "12",
+          "threads": "24",
+          "boostGhz": "5.4"
+        },
+        "Offers": []
+      },
+      "motherboard": {
+        "Id": "opendb-888d8266-347c-45e3-a0ba-342501effe0b",
+        "Category": "motherboard",
+        "Name": "ASRock B650M Pro RS WiFi AM5 AMD B650 SATA 6Gb/s Micro ATX Motherboard",
+        "Brand": "ASRock",
+        "Price": null,
+        "PriceKind": "未报价 / 未核验国内在售",
+        "Source": "BuildCores OpenDB (CC BY-NC-SA 4.0)",
+        "SourceUrl": "https://github.com/buildcores/buildcores-open-db/blob/main/open-db/Motherboard/888d8266-347c-45e3-a0ba-342501effe0b.json",
+        "UpdatedAt": "2026-10-16T12:01:10.3758114+08:00",
+        "Specs": {
+          "socket": "AM5",
+          "formFactor": "mATX",
+          "memoryType": "DDR5",
+          "ramSlots": "4",
+          "maxMemoryGb": "192",
+          "m2Slots": "3",
+          "sataPorts": "4",
+          "chipset": "AMD B650"
+        },
+        "Offers": []
+      },
+      "memory": {
+        "Id": "opendb-1279878e-7f93-497c-be61-1c97ec8e4ca7",
+        "Category": "memory",
+        "Name": "Kingston FURY Beast White DDR5-6000 CL30 64GB (2x32GB)",
+        "Brand": "Kingston",
+        "Price": null,
+        "PriceKind": "未报价 / 未核验国内在售",
+        "Source": "BuildCores OpenDB (CC BY-NC-SA 4.0)",
+        "SourceUrl": "https://github.com/buildcores/buildcores-open-db/blob/main/open-db/RAM/1279878e-7f93-497c-be61-1c97ec8e4ca7.json",
+        "UpdatedAt": "2026-10-16T12:01:10.3758114+08:00",
+        "Specs": {
+          "memoryGb": "64",
+          "memorySpeed": "6000",
+          "modules": "2",
+          "memoryType": "DDR5",
+          "formFactor": "288-pin DIMM",
+          "casLatency": "30"
+        },
+        "Offers": []
+      },
+      "gpu": {
+        "Id": "opendb-0c6574e4-ab40-4515-bd82-a66b4d9c7391",
+        "Category": "gpu",
+        "Name": "ASUS Dual GeForce RTX 4070 SUPER OC Edition 12GB GDDR6X",
+        "Brand": "ASUS",
+        "Price": null,
+        "PriceKind": "未报价 / 未核验国内在售",
+        "Source": "BuildCores OpenDB (CC BY-NC-SA 4.0)",
+        "SourceUrl": "https://github.com/buildcores/buildcores-open-db/blob/main/open-db/GPU/0c6574e4-ab40-4515-bd82-a66b4d9c7391.json",
+        "UpdatedAt": "2026-10-16T12:01:10.3758114+08:00",
+        "Specs": {
+          "powerWatts": "220",
+          "lengthMm": "267.01",
+          "vramGb": "12",
+          "chipset": "GeForce RTX 4070 SUPER",
+          "interface": "PCIe 4.0 x16"
+        },
+        "Offers": []
+      },
+      "psu": {
+        "Id": "opendb-982a442a-8e0a-490f-ad13-ddce35b752a4",
+        "Category": "psu",
+        "Name": "Corsair RM750e (2023) 750W 80+ Gold Fully Modular",
+        "Brand": "Corsair",
+        "Price": null,
+        "PriceKind": "未报价 / 未核验国内在售",
+        "Source": "BuildCores OpenDB (CC BY-NC-SA 4.0)",
+        "SourceUrl": "https://github.com/buildcores/buildcores-open-db/blob/main/open-db/PSU/982a442a-8e0a-490f-ad13-ddce35b752a4.json",
+        "UpdatedAt": "2026-10-16T12:01:10.3758114+08:00",
+        "Specs": {
+          "powerWatts": "750",
+          "formFactor": "ATX",
+          "efficiency": "80+ Gold",
+          "lengthMm": "140"
+        },
+        "Offers": []
+      }
+    },
+    "SavedAt": "2026-10-16T12:00:00+08:00"
+  }
+]
